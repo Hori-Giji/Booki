@@ -132,7 +132,12 @@ input:focus {
     padding-right: 7px;}
 
 .infobar{
-    display: flex;}
+	display: flex;
+	align-items: center;
+}
+
+.info-icon {
+	margin-right: 7px}
 
 .infogroup {
     margin-bottom: 30px;}
