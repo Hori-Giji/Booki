@@ -315,9 +315,9 @@ footer {
     flex-direction: column;}
 
     /*                                                                 MEDIA QUERIES                                                                                
-    /*                                                Medium devices (tablets, less/equal than 1024px)                                                       */
+    /*                                                Medium devices (tablets, less/equal than 1024.3px)                                                       */
 
-    @media screen and (max-width: 1024px) {
+    @media screen and (max-width: 1024.3px) {
 
         body {
             margin: 25px;
