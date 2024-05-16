@@ -54,7 +54,9 @@ nav {
 
 body {
     margin:auto;
-}
+    max-width: 1440px;
+	min-width: 320px;
+    }
 
 .headline {
     margin-bottom: 30px;}
